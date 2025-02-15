@@ -4,4 +4,4 @@
 
 Here is an image of the project:
 
-![Screenshot of Project](assests/images/javaa.png)
+![Screenshot of Project](/javaa.png)
